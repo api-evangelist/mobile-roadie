@@ -1,0 +1,83 @@
+{
+    "name": "Mobile Roadie",
+    "description": "App maker for Android and iOS. Mobile app builder for iPhone. Create your own iPhone apps without coding! Best app making software Mobile Roadie",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/855-mobile-roadie.jpg",
+    "tags": [
+        "api provider",
+        "bands",
+        "have api",
+        "music",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mobile-roadie\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Mobile Roadie",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/855-mobile-roadie.jpg",
+            "humanURL": "http:\/\/mobileroadie.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mobile-roadie-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/mobileroadie.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.mobileroadie.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.mobileroadie.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/mobile-roadie"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mobile-roadie"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/mobileroadie.com\/home\/api"
+        },
+        {
+            "type": "Email",
+            "url": "support@mobileroadie.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@mobileroadie.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/MobileRoadie"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/mobileroadie.com\/signup"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/mobileroadie"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/mobileroadie.com"
+        }
+    ]
+}
